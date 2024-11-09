@@ -1,28 +1,10 @@
-# coa6a4c9985b4339f164fe0ab
+We've set up a component with an event listener on window length. The button toggles the text displayed. 
 
-Quick start:
+![image](https://github.com/user-attachments/assets/7175b8fc-899e-41bb-9d00-8f20d9f85f3b)
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+Toggled on;
+![image](https://github.com/user-attachments/assets/b661f74d-24a1-40fc-8210-dc40613ff5f7)
 
-## Development
+Window length changed and rendered through useEffect
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+![image](https://github.com/user-attachments/assets/25540e5f-efc3-4524-969b-73d28889ba27)
